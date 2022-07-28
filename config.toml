@@ -1,11 +1,11 @@
 baseURL = "https://eveningcafe.github.io/po"
 languageCode = "en-us"
-title = "Măm Măm"
+title = "Swim On!"
 theme = "cuisine-book"
 enableGitInfo = true
 
 [params]
-  author = "Kien Nguyen Tuan"
-  description = "Măm Măm"
-  logo = "SeekPng.com_doughnut-png_4429089.png"
+  author = "Ngo Quang Hoa"
+  description = "Swim like a fish"
+  logo = "swimming.png"
   comment = true
