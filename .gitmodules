@@ -1,3 +1,4 @@
 [submodule "themes/cuisine-book"]
 	path = themes/cuisine-book
 	url = https://github.com/eveningcafe/hugo-cuisine-book
+
