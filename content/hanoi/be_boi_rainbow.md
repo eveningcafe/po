@@ -11,7 +11,7 @@ website: "https://www.facebook.com/RAINBOWFITNESSVANQUAN/"
 
 ## Địa chỉ
 
-- Tầng 6 tòa nhà Rainbow Văn Quán, Hà Đông 
+- Park City Hanoi, Lê Trọng Tấn, Hà Đông 
 
 Gửi xe tầng hầm b2, đi thang thoát hiểm lên b1 rồi bấm thang máy 
 
