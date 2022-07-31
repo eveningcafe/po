@@ -1,7 +1,7 @@
 ---
 title: "Bể bơi Usilk 102 City"
 date: "2022-07-28T11:07:20+07:00"
-tags: ["outdoor", "hanoi"]
+tags: ["outdoor", "hadong"]
 featured_image: "images/usilk.png"
 description: ""
 rating: 4

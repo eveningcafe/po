@@ -1,7 +1,7 @@
 ---
 title: "Bể bơi La Khê"
 date: "2022-07-28T11:07:20+07:00"
-tags: ["outdoor", "hanoi"]
+tags: ["outdoor", "hadong"]
 featured_image: "images/lakhe.png"
 description: ""
 rating: 3
