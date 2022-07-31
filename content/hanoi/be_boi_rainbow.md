@@ -2,7 +2,7 @@
 title: "Bể bơi Rainbow"
 date: "2022-07-28T11:07:20+07:00"
 tags: ["indoor", "hadong"]
-featured_image: "images/lakhe.png"
+featured_image: "images/r.jpg"
 description: ""
 rating: 3
 comment: true
