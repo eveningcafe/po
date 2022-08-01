@@ -11,11 +11,11 @@ website: "https://www.facebook.com/profile.php?id=730220563748243"
 
 ## Địa chỉ
 
-- Giếng Sen, La Khê, Hà Đông 
+- Khu đô thị park city Hà Đông 
 
 ## Đánh giá
-- Giá 500k/ lượt.  
+- Giá 500k/ lượt. Nếu là cư dân sẽ rẻ.
 - Bể to rộng. 30*50m2
-- Nước sạch.
+- Nước trông sạch.
 
-Sẽ là tối ưu nêú là cư dân khu park city. Giờ thì chỉ review được thế thôi.  
+Bạn nghĩ tôi có 500k trong ví?. Chỉ mới review được thế thôi.  
