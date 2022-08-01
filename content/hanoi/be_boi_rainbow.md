@@ -11,14 +11,14 @@ website: "https://www.facebook.com/RAINBOWFITNESSVANQUAN/"
 
 ## Địa chỉ
 
-- Park City Hanoi, Lê Trọng Tấn, Hà Đông 
+- Tầng 6 toà nhà rainbow, Văn Quán, Hà Đông 
 
 Gửi xe tầng hầm b2, đi thang thoát hiểm lên b1 rồi bấm thang máy 
 
 ## Đánh giá
 - Giá 120k/ lượt. 
 - Mở từ 5h30 - 21h  
-- Bể dài trung bình. 15*30m2
+- Bể dài trung bình. Hơi hẹp 15*30m2
 - Tối khá đông, Bơi sải hơi khó. 
 - Nước sạch. 
 - Nhân viên ổn, nhiệt tình.
