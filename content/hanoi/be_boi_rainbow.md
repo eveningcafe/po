@@ -11,6 +11,7 @@ website: "https://www.facebook.com/RAINBOWFITNESSVANQUAN/"
 
 ## Địa chỉ
 
+
 - Tầng 6 toà nhà rainbow, Văn Quán, Hà Đông 
 
 Gửi xe tầng hầm b2, đi thang thoát hiểm lên b1 rồi bấm thang máy 
