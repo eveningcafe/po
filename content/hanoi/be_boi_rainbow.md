@@ -14,7 +14,7 @@ website: "https://www.facebook.com/RAINBOWFITNESSVANQUAN/"
 
 - Tầng 6 toà nhà rainbow, Văn Quán, Hà Đông 
 
-Gửi xe tầng hầm b2, đi thang thoát hiểm lên b1 rồi bấm thang máy 
+(Gửi xe tầng hầm b2, đi thang thoát hiểm lên b1 rồi bấm thang máy.)
 
 ## Đánh giá
 - Giá 120k/ lượt. 
